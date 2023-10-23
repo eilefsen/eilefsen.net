@@ -1,0 +1,27 @@
+title = 'Emma Eilefsen Glenna'
+theme = 'no-style-please'
+# Don't pluralize section titles (e.g. Blog -> Blogs)
+pluralizelisttitles = false
+
+baseURL = 'https://eilefsen.net/'
+languageCode = 'en-US'
+
+[markup.goldmark.renderer]
+    hardWraps = true
+
+# defaultContentLanguage = 'en'
+
+# [languages]
+#     [languages.en]
+#         baseURL = 'https://eilefsen.net/'
+#         languageCode = 'en-US'
+#         languageDirection = 'ltr'
+#         languageName = 'English'
+#         weight = 1
+        
+#     [languages.no]
+#         baseURL = 'https://eilefsen.no/'
+#         languageCode = 'no-NB'
+#         languageDirection = 'ltr'
+#         languageName = 'Norsk'
+#         weight = 2
