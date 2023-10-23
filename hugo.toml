@@ -6,9 +6,6 @@ pluralizelisttitles = false
 baseURL = 'https://eilefsen.net/'
 languageCode = 'en-US'
 
-[markup.goldmark.renderer]
-    hardWraps = true
-
 # defaultContentLanguage = 'en'
 
 # [languages]
